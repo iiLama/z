@@ -1,0 +1,56 @@
+<html>
+<img src ="A.png" align="right"width="400"height="400" >
+<head>
+<meta charset="utf-8"/>
+<title></title>
+</head>
+<style>
+body{
+background-image:ur1("img/s.jpg") no-repeat center center;
+background-size:cover;
+background-attachment:fixed;
+background-color:#ebebe0;
+}
+</style>
+<body background="s.jpg"> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="PMingLiU-ExtB" size="7" > P A S S I O N  </p>
+<h6 style="font-family:verdana; text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="DecoType Thuluth"color="#a09074">إتبـع شغـفك وطـوره معنا</h6>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="آمنة.html.html" target="_blank"><img src="H.jpg"width="50"height="50"align="top" align="center"></a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="لييان.html.html" target="_blank"><img src ="F.jpg"
+width="50"height="50" align="rtl" ></a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="شوق.html.html"target="_blank"><img src="M.jpg" width="50"height="50" align="center"></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="right"> من نحن</p>
+<p align="right"><font size="4">
+نحن فريق نقدم دعم وتتلبية احتياج كل فرد لتطوير شغفه وابداعه</p>
+
+<a href="https://twitter.com/?msclkid=1f149f0badf311ec8a571d8e59ac704e"target="_blank"><img src ="T.png" width="60"height="40" align="left"></a>
+<a href="https://ar-ar.facebook.com/?msclkid=a3442c18adf311ec9addcbb83acab1a4"target="_blank"><img src ="FF.png"width="20"height="30" align="left" ></a>
+<a href="https://www.instagram.com/?msclkid=367ea9d3adf411ec9ff23d4457ba75b5"target="_blank"><img src ="N.png"width="20"height="30" align="left" ></a>
+<br>
+
+
+</body>
+</html>

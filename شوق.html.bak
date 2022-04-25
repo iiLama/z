@@ -1,0 +1,44 @@
+<html>
+<head>
+<body dir="center" bgcolor=" #ebebe0">
+
+<table  width="700" height=" 400"  align="center" cellspacing="10" >
+<br>
+<caption> <font size="7"> <font face="DecoType Naskh Variants"> أختر مُدربك  </caption>
+<br>
+
+<tr bgcolor= " #c2c2a3" align="center" width="300" height=" 300" > 
+
+<th >التصوير</th>
+
+<th> الطبخ</th>
+
+<th> خياطة</th>
+
+<tr bgcolor= " #c2c2a3" align="center" width="300" height=" 300"  >
+
+<th> التجميل</th>
+
+<th> حّرف</th>
+
+<th > الرسم</th>
+
+</tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</head>
+</body>
+</html>

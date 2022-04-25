@@ -1,0 +1,42 @@
+<html>
+<img src="SS.png" align="left" width="900" height="800">
+<body dir="rtl" bgcolor=" #ebebe0">
+<font face="DecoType Naskh Variants" align="center">
+<h1>حساب جديد</h1>
+</font>
+<head>
+<form>
+<h2>اسمك الكريم <h2>
+<input type="text" value="اسمك" size="50"
+Maxlength="20">
+<br>
+<h2>رقم جوالك<h2>
+<input type="text" value="رقمك" size="50"
+Maxlength="20"> 
+<br>
+<h2>البريدالالكتروني<h2>
+<input type="text" value="بريدك" size="50"
+Maxlength="20">
+<br>
+<form>
+<h2>كلمة المرور<h2>
+<input type="password" value="الباسورد" size="50"
+Maxlength="100"> 
+<br>
+<br>
+<input type="submit" value=" ارسل بياناتك"> 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+</head>
+</body>
+</html>
